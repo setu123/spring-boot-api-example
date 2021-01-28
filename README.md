@@ -1,6 +1,6 @@
 ## Overview
 
-An example project to demonstrate..:
+An example project to demonstrate...:
 
 * how to create a Spring Boot REST API ([article](https://tomgregory.com/building-a-spring-boot-application-in-jenkins/) | [video](https://youtu.be/sCcuUMn1vdM))
 * how to run Spring Boot in Docker and publish to Docker Hub ([article](https://tomgregory.com/building-a-spring-boot-application-in-docker-and-jenkins/) | [video](https://youtu.be/Kc3Vw5vk1Lw))
